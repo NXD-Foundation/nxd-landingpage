@@ -90,7 +90,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/company/nordx-dataspace/"
+                href="https://www.linkedin.com/company/nxd-foundation/"
                 rel="noreferrer"
                 target="_blank"
                 className="text-white hover:text-white active:text-white focus:text-white"
